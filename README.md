@@ -9,10 +9,7 @@
 
 ---
 
-## Giới thiệu (Overview)
 
-**QuickView** mang trải nghiệm **Quick Look** mượt mà của macOS lên Windows. Chỉ cần nhấn phím **Space** trên bất kỳ tệp hoặc thư mục nào trong Windows Explorer hay Desktop, nội dung tệp sẽ hiển thị tức thì với giao diện kính mờ Acrylic Direct2D sắc nét.
----
 
 ## Định dạng được hỗ trợ (Supported Formats)
 
