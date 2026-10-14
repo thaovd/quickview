@@ -1,0 +1,40 @@
+#include "Resource.h"
+#include <winver.h>
+
+// ─────────────────────────────────────────────
+// Version Information
+// ─────────────────────────────────────────────
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     1,0,3,0
+PRODUCTVERSION  1,0,3,0
+FILEFLAGSMASK   VS_FFI_FILEFLAGSMASK
+FILEFLAGS       0
+FILEOS          VOS_NT_WINDOWS32
+FILETYPE        VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName",      "QuickView"
+            VALUE "FileDescription",  "QuickView - File Preview"
+            VALUE "FileVersion",      "1.0.3.0"
+            VALUE "InternalName",     "QuickView"
+            VALUE "LegalCopyright",   "Copyright (C) Vuth.vn 2026"
+            VALUE "OriginalFilename", "QuickView.exe"
+            VALUE "ProductName",      "QuickView"
+            VALUE "ProductVersion",   "1.0.3.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 0x04B0
+    END
+END
+
+// ─────────────────────────────────────────────
+// Application Icon & Assets
+// ─────────────────────────────────────────────
+IDI_QUICKVIEW ICON   "assets/icon.ico"
+IDB_APP_LOGO  RCDATA "assets/icon.png"
+
