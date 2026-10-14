@@ -3,9 +3,8 @@
 <p align="center">
   <img src="assets/icon.png" width="128" height="128" alt="QuickView Logo" />
   <br>
-  <b>macOS-style Fast File Preview for Windows</b>
+  <b>Preview File for Windows</b>
   <br>
-  <i>Xem trước tệp tức thì với một phím Cách (Space)</i>
 </p>
 
 ---
@@ -13,12 +12,6 @@
 ## Giới thiệu (Overview)
 
 **QuickView** mang trải nghiệm **Quick Look** mượt mà của macOS lên Windows. Chỉ cần nhấn phím **Space** trên bất kỳ tệp hoặc thư mục nào trong Windows Explorer hay Desktop, nội dung tệp sẽ hiển thị tức thì với giao diện kính mờ Acrylic Direct2D sắc nét.
-
-- **Tốc độ tức thì**: Mở tệp ngay lập tức mà không cần khởi động phần mềm chuyên dụng nặng nề.
-- **Đóng êm ái**: Hiệu ứng thu nhỏ và mờ dần (macOS Popup Zoom Out) 90ms mượt mà khi đóng bằng `Space` hoặc `Esc`.
-- **Thông minh**: Tự động nhận diện khi người dùng đang gõ phím đổi tên tệp hoặc tìm kiếm để không can thiệp phím `Space`.
-- **Chuyển tệp liền mạch**: Đang mở QuickView, chỉ cần chọn tệp khác là nội dung lập tức cập nhật không cần tắt mở lại.
-
 ---
 
 ## Định dạng được hỗ trợ (Supported Formats)
@@ -49,18 +42,7 @@ Tải file cài đặt mới nhất tại thư mục `installer_output/QuickView
 
 ---
 
-## Hướng dẫn sử dụng (Usage)
 
-- **Xem nhanh tệp / thư mục**: Chọn tệp trong Windows Explorer hoặc Desktop rồi nhấn phím `Space`.
-- **Đóng cửa sổ xem trước**: Nhấn lại phím `Space` hoặc phím `Esc` hoặc bấm nút `✕`.
-- **Duyệt tệp kế tiếp**: Khi cửa sổ QuickView đang mở, dùng các phím mũi tên hoặc click chọn tệp khác để xem tiếp ngay lập tức.
-- **Khay hệ thống (System Tray)**: Click chuột phải vào biểu tượng QuickView ở góc dưới bên phải màn hình để:
-  - Bật / Tắt khởi động cùng Windows.
-  - Thoát ứng dụng hoàn toàn.
-
----
-
-## Hướng dẫn biên dịch (Building from Source)
 
 ### Yêu cầu môi trường
 - Windows 10/11 64-bit
