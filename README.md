@@ -5,7 +5,7 @@
   <br>
   <b>macOS-style Fast File Preview for Windows</b>
   <br>
-  <i>Xem trước tệp tức thì với một phím Cách (Space) — Nhanh, Đẹp, Hiện đại</i>
+  <i>Xem trước tệp tức thì với một phím Cách (Space)</i>
 </p>
 
 ---
